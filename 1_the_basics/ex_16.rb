@@ -1,3 +1,5 @@
+  # The Basics Exercise 6
+  
   x = 5.16**2
   y = 32.11**2
   z = 14.76**2

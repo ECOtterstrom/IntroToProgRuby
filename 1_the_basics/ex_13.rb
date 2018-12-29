@@ -1,3 +1,5 @@
+  # The Basics Exercise 3
+
   movies = {
    :soundfly => 2003,
    :creative_moon => 1996,

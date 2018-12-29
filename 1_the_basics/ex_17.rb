@@ -1,3 +1,5 @@
+  # The Basics Exercise 7
+  
   pet = {dog: "Zen",
       cat: "Lanie")
       

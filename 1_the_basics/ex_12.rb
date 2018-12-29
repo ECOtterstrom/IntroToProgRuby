@@ -1,3 +1,5 @@
+  # The Basics Exercise 2
+
   thousands = 5728 / 1000
   hundreds = 5728 % 1000 / 100
   tens = 5728 % 1000 % 100 / 10
