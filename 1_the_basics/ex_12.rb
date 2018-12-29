@@ -1,0 +1,1 @@
+puts "Karma is a dog."
